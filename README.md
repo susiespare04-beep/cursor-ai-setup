@@ -15,7 +15,7 @@ Steps Completed
 
 Issues Faced
 
-- The Claude Code and Codex extensions were not directly visible in the current Cursor Marketplace version, rather another extension names GSAP.
+- The Claude Code and Codex extensions were not directly visible in the current Cursor Marketplace version, rather another extension named GSAP.
 - Tutorials showed different interfaces and workflows compared to the installed version of Cursor.
 - Researched community discussions and documentation to understand the issue.
     
